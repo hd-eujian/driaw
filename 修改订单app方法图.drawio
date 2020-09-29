@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-29T05:59:27.976Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="HELSjanDm7uCKleY0Yad" version="13.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-29T09:03:43.797Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="vjfDQc3DKrzo1Asrik1g" version="13.5.8" type="github">
   <diagram id="enPMjsUcvFmXfXY8dEkP" name="第 1 页">
-    <mxGraphModel dx="1426" dy="5514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="5214" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,7 +14,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9zbdjHp9Pk3xqMdb3bdN-3" value="执行fun-11" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="180" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="180" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9zbdjHp9Pk3xqMdb3bdN-7" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;fun-11，修改合同人/企业信息&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="160" y="90" width="170" height="40" as="geometry" />
@@ -81,8 +81,8 @@
         <mxCell id="9zbdjHp9Pk3xqMdb3bdN-27" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=http://wiki.gacnio-inc.com/download/attachments/12782653/%E8%BD%A6%E4%B8%BB%E5%88%A4%E6%96%AD%E6%B5%81%E7%A8%8B.jpg?version=1&amp;modificationDate=1593573151000&amp;api=v2;" parent="1" vertex="1">
           <mxGeometry x="1200" y="-990" width="861.31" height="1345" as="geometry" />
         </mxCell>
-        <mxCell id="9zbdjHp9Pk3xqMdb3bdN-35" value="充电桩联系电话由crm自行修改" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="350" y="710" width="180" height="70" as="geometry" />
+        <mxCell id="9zbdjHp9Pk3xqMdb3bdN-35" value="充电桩联系电话由crm自行修改&lt;br&gt;修改归属人" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="350" y="740" width="180" height="70" as="geometry" />
         </mxCell>
         <mxCell id="8-USg63AwL0OhvrTkQQ6-14" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="8-USg63AwL0OhvrTkQQ6-1" target="8-USg63AwL0OhvrTkQQ6-11">
           <mxGeometry relative="1" as="geometry" />
