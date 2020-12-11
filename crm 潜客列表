@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-11T09:22:44.785Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="diVX0w_CbDog5KsZn-ch" version="13.11.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-11T09:30:12.139Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="f5uynuHSR6NvG73eZtes" version="13.11.0" type="github">
   <diagram id="hjp3z8k21Jjtx_-QMjAB" name="Page-1">
     <mxGraphModel dx="983" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -121,7 +121,7 @@
         <mxCell id="liqx6QJ0MPAsQvRn0_jK-32" value="t4&amp;nbsp;tt_pc_clue_intent&amp;nbsp;意向表&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1020" y="750" width="330" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="liqx6QJ0MPAsQvRn0_jK-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="liqx6QJ0MPAsQvRn0_jK-35" target="liqx6QJ0MPAsQvRn0_jK-36">
+        <mxCell id="liqx6QJ0MPAsQvRn0_jK-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;endArrow=none;endFill=0;" edge="1" parent="1" source="liqx6QJ0MPAsQvRn0_jK-35" target="liqx6QJ0MPAsQvRn0_jK-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="liqx6QJ0MPAsQvRn0_jK-41" value="EMPLOYEE_ID 1账号1员工" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="liqx6QJ0MPAsQvRn0_jK-40">
@@ -171,6 +171,9 @@
         </mxCell>
         <mxCell id="liqx6QJ0MPAsQvRn0_jK-39" value="tm_org_position&lt;br&gt;职位ID" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1654" y="2160" width="330" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="liqx6QJ0MPAsQvRn0_jK-48" value="TM_BROKER&lt;br&gt;经纪人" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2250" y="2110" width="330" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
