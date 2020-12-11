@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-11T09:30:34.356Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="0qBCo3y3Ep3LeQ2lVlFn" version="13.11.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-11T09:43:11.805Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="zPmYHnN2VG34Nz3SXWD3" version="13.11.0" type="github">
   <diagram id="hjp3z8k21Jjtx_-QMjAB" name="Page-1">
-    <mxGraphModel dx="983" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="891" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -88,7 +88,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="liqx6QJ0MPAsQvRn0_jK-23" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="liqx6QJ0MPAsQvRn0_jK-12">
+        <mxCell id="liqx6QJ0MPAsQvRn0_jK-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="liqx6QJ0MPAsQvRn0_jK-11" target="liqx6QJ0MPAsQvRn0_jK-12">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1485" y="635" as="sourcePoint" />
           </mxGeometry>
@@ -98,8 +98,16 @@
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="liqx6QJ0MPAsQvRn0_jK-52" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=ERmany;endFill=0;" edge="1" parent="1" source="liqx6QJ0MPAsQvRn0_jK-11" target="liqx6QJ0MPAsQvRn0_jK-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="liqx6QJ0MPAsQvRn0_jK-53" value="CUSTOMER_BUSINESS_ID" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="liqx6QJ0MPAsQvRn0_jK-52">
+          <mxGeometry x="0.0889" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="liqx6QJ0MPAsQvRn0_jK-11" value="&lt;div style=&quot;text-align: center&quot;&gt;&lt;span style=&quot;text-align: left&quot;&gt;t3 tt_pc_customer_business&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;潜客渠道行为信息&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1320" y="565" width="330" height="70" as="geometry" />
+          <mxGeometry x="1290" y="550" width="330" height="70" as="geometry" />
         </mxCell>
         <mxCell id="liqx6QJ0MPAsQvRn0_jK-33" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.594;exitY=1.014;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="liqx6QJ0MPAsQvRn0_jK-11" target="liqx6QJ0MPAsQvRn0_jK-32">
           <mxGeometry relative="1" as="geometry" />
@@ -166,14 +174,23 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="liqx6QJ0MPAsQvRn0_jK-38" value="tm_user_org_position&lt;br&gt;员工职位ID关联表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="liqx6QJ0MPAsQvRn0_jK-38" value="tm_user_org_position&lt;br&gt;员工职位ID关联中间表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1790" y="1900" width="330" height="70" as="geometry" />
         </mxCell>
         <mxCell id="liqx6QJ0MPAsQvRn0_jK-39" value="tm_org_position&lt;br&gt;职位ID" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1654" y="2160" width="330" height="70" as="geometry" />
         </mxCell>
         <mxCell id="liqx6QJ0MPAsQvRn0_jK-48" value="TM_BROKER&lt;br&gt;经纪人" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2250" y="2110" width="330" height="70" as="geometry" />
+          <mxGeometry x="2670" y="1650" width="330" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="liqx6QJ0MPAsQvRn0_jK-49" value="tt_pc_actioned 跟进表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="350" width="330" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="liqx6QJ0MPAsQvRn0_jK-55" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="liqx6QJ0MPAsQvRn0_jK-54" target="liqx6QJ0MPAsQvRn0_jK-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="liqx6QJ0MPAsQvRn0_jK-54" value="TM_REGION 地区表&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2530" y="200" width="330" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
